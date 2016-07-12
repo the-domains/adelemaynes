@@ -1,7 +1,7 @@
 name: adelemaynes
 favicon: null
-layout_spectrum: 0.99749
-typography_spectrum: 0.21898727910593152
+layout_spectrum: 0.99581
+typography_spectrum: 0
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#c3a787'
     - '#444a50'
     - '#9c6156'
-  brandStrength: 0.2341074706055224
-  lightness: 0.8894194148015231
+  brandStrength: 0.5
+  lightness: 0.75
   saturation: 0.023879725951701403
-  rhythmicContrast: 0.5260736767668277
+  rhythmicContrast: 0.5
 purpose: []
